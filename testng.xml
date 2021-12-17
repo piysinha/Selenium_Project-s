@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name = "FreeCRM Application Test Automation suite ">
+
+	<test name = "Free CRM App test Cases">
+		
+		<classes>
+			<class name = "Testing_Automation_project.GoogleTest_NG"/>
+			<class name = "Testing_Automation_project.GoogleTitleTest"/>
+			<class name = "Testing_Automation_project.TestNG_Features"/>
+		
+		</classes>
+	
+	</test>
+
+</suite>

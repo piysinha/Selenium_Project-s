@@ -1,0 +1,18 @@
+TestNG - unit test Framework
+TDD - Test Driven Development
+
+Purpose - Design test cases in a systematic way
+-- HTML reports
+-- Different annotations
+-- priorities can be set using TestNG 
+-- Dependency 
+-- grouping as there are 100 test cases
+-- data provider feature
+
+Test NG is an open source, Free - Its available in the form of Jar files
+
+Its also called Java unit testing framework
+
+Junit and TestNG is used with Java to design framework
+
+Install TestNG in Eclipse

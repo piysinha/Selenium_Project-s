@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FreeCRM Automation suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Different testng Feature test(failed)">
+    <classes>
+      <class name="Testing_Automation_project.GoogleTest_NG">
+        <methods>
+          <include name="googleLogoTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- Testing_Automation_project.GoogleTest_NG -->
+    </classes>
+  </test> <!-- Different testng Feature test(failed) -->
+</suite> <!-- Failed suite [FreeCRM Automation suite] -->
